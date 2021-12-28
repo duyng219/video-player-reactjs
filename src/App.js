@@ -9,7 +9,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Video</h1>
+      <h1>Videoandimage</h1>
       <VideoPlayer src={videoSrc} poster={poster} width="720" height="420" />
     </div>
   );
